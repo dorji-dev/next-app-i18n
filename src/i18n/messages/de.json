@@ -1,0 +1,26 @@
+{
+  "server": {
+    "title": "Serverkomponente",
+    "children": {
+      "non_async": {
+        "title": "Nicht-asynchrone Serverkomponente",
+        "sub_title": "Übersetzung innerhalb einer nicht asynchronen Komponente",
+        "body": "Hallo Welt!"
+      },
+      "async": {
+        "title": "Asynchrone Serverkomponente",
+        "sub_title": "Übersetzung innerhalb der asynchronen Komponente",
+        "body": "Hallo Welt!"
+      }
+    }
+  },
+  "client": {
+    "title": "Client-Komponente",
+    "sub_title": "Übersetzung innerhalb der Client-Komponente",
+    "body": "Hallo Welt!"
+  },
+  "site": {
+    "title": "Eine minimale Demo der Internationalisierung im NextJS App Router mit der <link>next-intl</link>-Bibliothek"
+  },
+  "disclaimer": "Für die Demo wurde Google Translate verwendet, daher ist es möglicherweise nicht korrekt, aber Sie verstehen, was ich meine."
+}
