@@ -1,2 +1,2 @@
-# next-app-i18n
-Internationalization in Next app router with next-intl library
+# Internationlization with Next app router
+A minimal setup of i18n with **next-intl** library.
